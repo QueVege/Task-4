@@ -6,6 +6,7 @@ Threading / Multiprocessing
 Задание
 -------
 
+
 #. API: 
 https://jobs.github.com/positions.json?description={descripion_name}&page={page}
 Получить информацию о трех разных job c двух страниц.
