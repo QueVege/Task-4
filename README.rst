@@ -6,9 +6,10 @@ Threading / Multiprocessing
 Задание
 -------
 
-#. API: https://jobs.github.com/positions.json?description={descripion_name}&page={page}
+1. API: 
+ .. _ссылка: https://jobs.github.com/positions.json?description={descripion_name}&page={page}
 Получить информацию о трех разных job c двух страниц.
-#. Написать метод для вычисления факториала. Вычислить факториал для чисел: 3, 5, 7.
+2. Написать метод для вычисления факториала. Вычислить факториал для чисел: 3, 5, 7.
 
 
 Выводы
